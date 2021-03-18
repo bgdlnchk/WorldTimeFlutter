@@ -7,7 +7,7 @@
 
 <h2>Description</h2>
 
-This application shows for user information about current time of 50+ already added cities. World Time application has been developed using Flutter (new Google Cross-Platphorm Developing technology), so it support both mobile operation systems (Android and IOS). App have integrated AdMob and you will earn money by IOS and Android users at the same time. All of this is just one code.
+This application shows useful information about the current time of 50+ already added cities. World Time application has been developed using Flutter (new Google Cross-Platform Developing technology), so it supports both mobile operating systems (Android and IOS). App has integrated AdMob and you will earn money from IOS and Android users at the same time. All of this is just one code.
 
 <h2>Features</h2>
 
